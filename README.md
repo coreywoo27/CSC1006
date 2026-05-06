@@ -1,2 +1,2 @@
 CUHKSZ CSC1006 assignments
-basic machine learning problems, including definition, classification, linear regression, logistic regression, perceptron, etc
+basic machine learning problems, including definition, classification, linear regression, logistic regression, perceptron, mlp，etc
